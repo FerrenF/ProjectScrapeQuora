@@ -3,8 +3,11 @@
 
 # Quora Scraper 2.0
 
-TBD
-
+TODO: 
+    *   Maxes out at about 100 questions. Need to beat that infinite scrolling scrape detection.
+    *   Finish retrieval of answers through URL generation rather than that... other technique
+    *   Honestly the way that Quora works in that it has new questions each refresh - makes this tool work **right now**
+    *   Uhh, no quora developers... allowed.
 
 ## First, this code is based of of this guy's project. I ended up changing so much that I made a new project for it. Credit for the idea I built off of goes to here:
 https://github.com/adrian-dip/quora-scraper
