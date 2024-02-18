@@ -13,8 +13,10 @@ TODO:
     
     - Uhh, no quora developers... allowed.
 
-## First, this code is based of of this guy's project. I ended up changing so much that I made a new project for it. Credit for the idea I built off of goes to here:
-https://github.com/adrian-dip/quora-scraper
+## First, this code is based off of this guy's project.
+#### I ended up changing so much that I made a new project for it. Credit for the idea I built off of goes to here:
+#### https://github.com/adrian-dip/quora-scraper
+
 
 # Quora scraper
 
