@@ -1,5 +1,6 @@
 
-
+# This project is on hiatus, and was never truly completed. Also, Quora has changed things up and you need to log in to retrieve unique questions and avoid a page scroll limit. 
+# It will probably not work for 2024 Quora and so on, but stay tuned for updates...?!
 
 # Quora Scraper 2.0
 
